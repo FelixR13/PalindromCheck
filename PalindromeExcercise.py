@@ -4,7 +4,7 @@ import sys
 
 """
 
-Palindrome check von Felix Riha
+Palindrome check von FelixR
 
 """
 run=True
