@@ -38,7 +38,7 @@ while run==True:
             wordBackward=wordBackward+word[i]
         if word == wordBackward:                                #compares the orginal word and the word spelled backwards with each other
             flag=True
-        print (wordOriginal+" is a palindrome = "+str(flag))    #prints the result 
+        print (wordOriginal+" is a palindrom = "+str(flag))    #prints the result 
     while True:
         nextWord=input("Check another Name or Word? (Y/N)")
         if nextWord =="Y" :
